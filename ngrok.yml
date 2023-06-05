@@ -1,0 +1,6 @@
+authtoken: 21Rtdw2fk10Rr9HwMo4AvSNKMBX_6SWYvhLTnpiWUyVAHsyp
+tunnels:
+  webhook:
+    addr: 8000
+    proto: http
+    region: eu
